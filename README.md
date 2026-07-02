@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="MAA-Data Analyst.png" alt="Mohamed Ahmed Abdalla Banner" width="100%">
+</p>
+
 # Hi there, I'm Mohamed Ahmed Abdalla! 👋
 
 ## 📊 About Me
