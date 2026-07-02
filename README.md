@@ -43,7 +43,7 @@ I am a passionate **Aspiring Data Analyst** dedicated to transforming raw data i
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/mohamed-ahmedabdalla" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-ahmed-abdalla/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 &nbsp;&nbsp;
